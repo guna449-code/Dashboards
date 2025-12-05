@@ -18,5 +18,5 @@ This Power BI report provides an interactive overview of sales performance acros
 2. Data labels on the line chart show exact order counts for key points, which is useful for highlighting peaks and comparing performance between periods.
 
 Screenshorts / Demos
-Show what the dashboard look like - ![Alt text](https://github.com/guna449-code/Dashboards/blob/main/2SalesData.PNG)
+Show what the dashboard look like
 Example - ![Dashboard Preview](https://github.com/guna449-code/Dashboards/blob/main/2SalesData.PNG)
